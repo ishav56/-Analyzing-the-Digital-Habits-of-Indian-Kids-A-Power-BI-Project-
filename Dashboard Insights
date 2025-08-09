@@ -1,0 +1,99 @@
+🎯 Analyzing the Digital Habits of Indian Kids – A Power BI Project 📱📊
+
+As screen time becomes an everyday part of children’s lives in India, I wanted to explore how it aligns with recommended health standards. So I developed an interactive dashboard titled:
+
+👉 “Indian Kids Screen Timing Effect” – created using Power BI
+
+
+---
+
+🔍 Problem:
+
+With rising access to smartphones and digital devices, many children are exceeding the recommended screen time (1–1.5 hours/day as per WHO/IAP). However, there's often no clear way to visualize and understand:
+
+How much screen time children are getting by age
+
+The type of devices they use (TV, Tablet, Smartphone, Laptop)
+
+Differences based on state, gender, or internet access
+
+Gaps between actual vs recommended screen time
+
+
+
+---
+
+🛠 My Solution Using Power BI:
+
+✅ Built a clean, interactive dashboard that provides:
+
+Age-wise comparison of actual vs recommended screen time
+
+Insights on device usage by age and gender
+
+Filters for state, age, and content type for detailed views
+
+Scrollable data cards for deeper insights (like internet access type)
+
+
+✅ Used Bookmarks and the Selection Pane to:
+
+Enable interactive navigation between pages
+
+Control what visuals appear based on user selections
+
+Create a seamless and dynamic user experience
+
+
+✅ Key Metrics Displayed:
+
+Total actual average screen time (~40.52K hours)
+
+Count of primary devices used (Smartphone, Tablet, etc.)
+
+Count of communities by internet type (Broadband vs Mobile Data)
+
+
+✅ Visuals Included:
+
+Bar charts showing device usage by age and gender
+
+Age-wise recommended vs actual screen time comparison
+
+Slicers for customized filtering and drill-down
+
+
+
+---
+
+💡 Key Insight:
+
+As children grow older, smartphone usage becomes the dominant device—even in areas with limited broadband access—often pushing total screen time beyond safe limits.
+
+This dashboard helps parents, schools, and health professionals better understand digital habits and identify where intervention may be needed.
+
+
+---
+
+🚀 Tools & Features Used:
+
+Power BI
+
+Bookmarks
+
+Selection Pane
+
+Slicers & Filters
+
+Interactive visuals (no DAX used)
+
+
+
+---
+
+🎓 As a Data Analyst Fresher, I’m passionate about using data to uncover insights and tell powerful stories. This project reflects my interest in solving real-world problems through analytics and visualization.
+
+📩 I’m open to feedback, collaborations, or opportunities in the data analytics field.
+
+🔗 Let’s connect and share the power of data!
+#PowerBI #DataAnalytics #ScreenTime #IndianKids #DashboardDesign #DataStorytelling #SocialImpact #AnalyticsForGood #PowerBIDashboard #DataAnalystFresher
